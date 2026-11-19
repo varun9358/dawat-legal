@@ -7,7 +7,7 @@ title: "Dawat: Invitation Card Maker — Privacy Policy"
 
 **App name:** Dawat: Invitation Card Maker (Android package `app.dawat.invitation`)
 **Developer:** CodeOrbit Labs
-**Contact:** er.varunvision@gmail.com
+**Contact:** 108101ras@gmail.com
 **Last updated:** November 20, 2026
 
 
